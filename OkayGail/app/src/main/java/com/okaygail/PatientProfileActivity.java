@@ -53,7 +53,7 @@ public class PatientProfileActivity extends Activity {
         //Height
         String heightInfo = mIntent.getStringExtra("Height");
         mHeightEdit = (EditText) findViewById(R.id.height_edit_text);
-//        mHeightEdit.setText(heightInfo.substring(7, 8) + "'" + heightInfo.substring(heightInfo.length() - 1));
+        mHeightEdit.setText(heightInfo.substring(7, 8) + "'" + heightInfo.substring(heightInfo.length() - 1));
 
         mConfirmButton = (Button) findViewById(R.id.confirm_button);
         mConfirmButton.setOnClickListener(new View.OnClickListener() {

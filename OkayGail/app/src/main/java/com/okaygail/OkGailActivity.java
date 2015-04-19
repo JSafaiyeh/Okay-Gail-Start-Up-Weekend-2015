@@ -50,13 +50,10 @@ public class OkGailActivity extends Activity {
         imageButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-            /*    Intent i = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
+                Intent i = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
                 i.putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM);
                 i.putExtra(RecognizerIntent.EXTRA_PROMPT, "Gail is listening...");
-                startActivityForResult(i, SPEECH_REQUEST_CODE); */
-                Intent i = new Intent(mContext, PatientProfileActivity.class);
-                i.putExtra("Name", mIntent.getStringExtra("Name"));
-                startActivity(i);
+                startActivityForResult(i, SPEECH_REQUEST_CODE);
             }
         });
     }
