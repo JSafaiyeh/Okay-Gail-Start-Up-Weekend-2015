@@ -53,7 +53,7 @@ public class PatientProfileActivity extends Activity {
         //Height
         String heightInfo = mIntent.getStringExtra("Height");
         mHeightEdit = (EditText) findViewById(R.id.height_edit_text);
-        mHeightEdit.setText(heightInfo.substring(7, 8) + "'" + heightInfo.substring(heightInfo.length() - 1));
+        mHeightEdit.setText(heightInfo.substring(7, 8) + "'" + heightInfo.substring(nthOccurrence(heightInfo, ' ', 2)));
 
         mConfirmButton = (Button) findViewById(R.id.confirm_button);
         mConfirmButton.setOnClickListener(new View.OnClickListener() {
@@ -66,5 +66,12 @@ public class PatientProfileActivity extends Activity {
                         .show();
             }
         });
+    }
+
+    public static int nthOccurrence(String str, char c, int n) {
+        int pos = str.indexOf(c, 0);
+        while (n-- > 0 && pos != -1)
+            pos = str.indexOf(c, pos+1);
+        return pos;
     }
 }
