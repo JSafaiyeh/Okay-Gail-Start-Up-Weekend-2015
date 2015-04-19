@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">Okay Gail</string>
-
+    <string name="app_name">Gail</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <color name="color_primary">#78bAAF</color>
+    <color name="color_primary_dark">#269983</color>
+    <string name="title_activity_ok_gail">OkGailActivity</string>
+    <string name="title_activity_patient_profile">PatientProfileActivity</string>
 </resources>
