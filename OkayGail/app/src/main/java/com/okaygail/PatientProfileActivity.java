@@ -53,6 +53,8 @@ public class PatientProfileActivity extends Activity {
         //Height
         String heightInfo = mIntent.getStringExtra("Height");
         mHeightEdit = (EditText) findViewById(R.id.height_edit_text);
+        
+        //Good enough for the demo
         mHeightEdit.setText(heightInfo.substring(7, 8) + "'" + heightInfo.substring(nthOccurrence(heightInfo, ' ', 2)));
 
         mConfirmButton = (Button) findViewById(R.id.confirm_button);
