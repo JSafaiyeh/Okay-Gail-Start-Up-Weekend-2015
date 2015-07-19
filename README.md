@@ -1,4 +1,9 @@
 # Google's Start-Up Weekend at SJSU (April 2015)
+OkGail won 3rd place at Start-Up Weekend
+
+
+
+
 Gail is an attempt to streamline documentation and communication; this project focuses on the interaction between nurses and doctors.
 
 
