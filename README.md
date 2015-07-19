@@ -4,7 +4,11 @@ Gail is an attempt to streamline documentation and communication; this project f
 
 
 Nurses will have a list of their current appointments.
-<img src="https://github.com/JSafaiyeh/Okay-Gail-Start-Up-Weekend-2015/blob/master/screenshots/AppointmentActivity.png" alt="Appointment Activity" width="475" class="displayed">
+
+
+
+
+<img src="https://github.com/JSafaiyeh/Okay-Gail-Start-Up-Weekend-2015/blob/master/screenshots/AppointmentActivity.png" alt="Appointment Activity" width="50%">
 
 
 
