@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -55,6 +56,7 @@ public class PatientProfileActivity extends Activity {
         mHeightEdit = (EditText) findViewById(R.id.height_edit_text);
         
         //Good enough for the demo
+        Log.d("string", heightInfo);
         mHeightEdit.setText(heightInfo.substring(7, 8) + "'" + heightInfo.substring(nthOccurrence(heightInfo, ' ', 2)));
 
         mConfirmButton = (Button) findViewById(R.id.confirm_button);

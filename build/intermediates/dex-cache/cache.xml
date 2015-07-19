@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/pre-dexed/debug/classes-e5ff4308d2947a9fac773964de390a739f12e072.jar" />
+    </item>
+    <item
+        jar="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/pre-dexed/debug/classes-54497b5ccb7a9b0ac08b7eb9c3e72d2950f82ec9.jar" />
+    </item>
+    <item
+        jar="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.2.4/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="54dbb7274d90d254882db615bcdee0d3f880915b">
+        <dex dex="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/pre-dexed/debug/classes-ebfae0cf2b667d97beb449a29b3813ae831ad4e3.jar" />
+    </item>
+    <item
+        jar="/Users/JSafaiyeh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-cadf71fc8439abca8cb3ef8a22d68d39eb243989.jar" />
+    </item>
+    <item
+        jar="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-fbf84319898a2746ec94cc60db4e1f65f7bf7e52.jar" />
+    </item>
+    <item
+        jar="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/pre-dexed/debug/classes-5e705a3597599208a66c915ade98d7429fdbeaef.jar" />
+    </item>
+    <item
+        jar="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/JSafaiyeh/Projects/Okay-Gail-Start-Up-Weekend-2015/app/build/intermediates/pre-dexed/debug/classes-439dbbb6aa814974e52a5bb708f771d6f27b6d70.jar" />
+    </item>
+
+</items>
